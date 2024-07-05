@@ -1,6 +1,6 @@
 # Form_Registration
 
-Developed a simple registaration form by using HTML5. <br>
+Each website contain good tasks are opened Developed a simple registaration form by using HTML5. <br>
 This registaration form contains the following elements of html :- <br>
 . One heading at top.<br>
 . One profile image logo.<br>
